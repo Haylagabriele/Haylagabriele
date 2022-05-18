@@ -25,4 +25,4 @@ empregos :
         ambiente :
           GITHUB_TOKEN : ${{ secrets.GITHUB_TOKEN }}
   
-  workflow_dispatch :
+  
