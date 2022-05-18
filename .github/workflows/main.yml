@@ -14,12 +14,14 @@ empregos :
       - usa : Platane/snk@master
         id : cobra-gif
         com :
-          github_user_name :   Haylagabriele
+          github_user_name : Haylagabriele
           svg_out_path : dist/github-contribution-grid-snake.svg
 
-      - usa  : crazy-max/ghaction-github-pages@v2.1.3
+      - usa : crazy-max/ghaction-github-pages@v2.1.3
         com :
           target_branch : saída
           build_dir : dist
         ambiente :
           GITHUB_TOKEN : ${{ secrets.GITHUB_TOKEN }}
+  
+  workflow_dispatch :
