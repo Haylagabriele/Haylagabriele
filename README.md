@@ -1,5 +1,4 @@
-# Olá! Meu nome é Hayla Gabriele.
-
+# Olá! Meu nome é Haylagabriele
 - 🔭Atualmente estou trabalhando em Front-end 
 - 🌱atualmente estou me desenvolvendo em Java Script
 - 👯Contato de E-mail: Hayla Gabriele
