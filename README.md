@@ -1,7 +1,7 @@
 # Olá! Meu nome é Haylagabriele
 - 🔭Atualmente estou trabalhando em Front-end 
 - 🌱atualmente estou me desenvolvendo em Java Script
-- 👯Contato de E-mail: Hayla Gabriele
+- 👯Contato de Telefone: 71998798-1521
 - 🤔 Tenho conhecimentos em Back-end
 - 💬Pergunte-me sobre ...
 - 📫Contato de E-mail: haylafe7@hotmail.com
